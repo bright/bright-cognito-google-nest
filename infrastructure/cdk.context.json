@@ -1,0 +1,11 @@
+{
+  "hosted-zone:account=814666749594:domainName=tutorial.bright.dev:region=eu-central-1": {
+    "Id": "/hostedzone/Z00473001PKN13OWT5WIS",
+    "Name": "tutorial.bright.dev."
+  },
+  "availability-zones:account=814666749594:region=eu-central-1": [
+    "eu-central-1a",
+    "eu-central-1b",
+    "eu-central-1c"
+  ]
+}
